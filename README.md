@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FuraxNat</h1>
+<h1 align="center">Hi 👋, I'm TheCodeLens</h1>
 <h3 align="center">A French Coder</h3>
 
 ![](https://komarev.com/ghpvc/?username=furaxnat)
