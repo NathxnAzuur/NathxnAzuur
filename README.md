@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FuraxNat</h1>
 <h3 align="center">A French Coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furaxnat&label=Profile%20views&color=0e75b6&style=flat" alt="furaxnat" /> </p>
+![](https://komarev.com/ghpvc/?username=furaxnat)
 
 - 🌱 I’m currently learning **Python**
 
